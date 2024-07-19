@@ -1,0 +1,57 @@
+body {
+  background-color: white;
+}
+
+
+form {
+  background-color: #ffffff;
+}
+
+
+input[type="text"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ced4da;
+}
+
+
+button[type="submit"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #ff0000;
+  color: white;
+  cursor: pointer;
+}
+
+
+button[type="submit"]:hover {
+  background-color: #b30600;
+}
+
+
+.all-content {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+
+form.p-4.border.rounded.shadow-sm {
+  width: 29rem;
+}
+
+.container.my-5 {
+  width: 36%;
+}
+
+.container-list{
+  min-height: 30vh;
+}
+
+p {
+text-align: center;
+}
