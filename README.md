@@ -3,7 +3,7 @@
 Projeto desenvolvido em React, para cadastro e gerenciamento de filmes. Utilizando esta aplicação, os usuários podem inserir informações como o nome e gênero de filmes, 
 além de ter as funcionalidades de editar, excluir e visualizar os filmes cadastrados.
 
-### Para Iniciar 
+## Para Iniciar 
 
 Estas instruções ajudarão você a configurar o projeto em sua máquina local para desenvolvimento e testes.
 
@@ -15,13 +15,13 @@ Antes de começar, verifique se o Node.js está instalado em sua máquina. Caso 
 1. Clone o repositório:
 
 ```
-   git clone 
+   git clone https://github.com/KellyKarina/Movies-React.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```
-    cd react-to-do-list
+    cd movie
 ```
 
 3. Instale as dependências:
@@ -36,5 +36,5 @@ Para iniciar o servidor de desenvolvimento, execute:
 ```
     npm run dev
 ```
-Abra o navegador e acesse http://localhost:3000 para ver a aplicação em execução.
+Abra o navegador e acesse http://localhost:5173/ para ver a aplicação em execução.
 
